@@ -8,8 +8,8 @@ Green SCDQ5543P/Q/R
 High Efficiency Green SCDQ5544P/Q/R
 */
 
-#ifndef FONT5X7_H
-#define FONT5X7_H 
+#ifndef FONT5X5_H
+#define FONT5X5_H 
 
 
 // standard ascii 5x5 font
